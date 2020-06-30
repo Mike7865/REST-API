@@ -1,0 +1,30 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "package.json": "^2.0.1",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike7865/REST-API.git"
+  },
+  "author": "Mikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike7865/REST-API/issues"
+  },
+  "homepage": "https://github.com/Mike7865/REST-API#readme"
+}
